@@ -1,0 +1,69 @@
+[
+  {
+      "id": 1,
+      "band": "The Smiths",
+      "recordTitle":"The Sound of the Smiths",
+      "amount": 21.99,
+      "discountAmount": 1.99,
+      "category": "Rock",
+      "imageUrl": "https://cdn.hmv.com/r/w-1280/p-webp/hmv/files/84/844cbae7-e2c3-4ebd-836e-26cde5d93c65.jpg"
+  },
+  {  "id": 2,
+      "band": "Nina Simone",
+      "recordTitle":"The Amazing Nina Simone",
+      "amount": 15.99,
+      "discountAmount": 1.99,
+      "category": "Jazz",
+      "imageUrl": "https://cdn.hmv.com/r/w-1280/p-webp/hmv/files/3c/3c8d2809-16df-4d93-92df-c1c6524660ab.jpg"
+   },
+  {
+      "id": 3,
+      "band": "Charlie Parker",
+      "recordTitle":"The magnificent Charlie Parker",
+      "amount": 17.99,
+      "discountAmount": 1.99,
+      "category": "Jazz",
+      "imageUrl": "https://denovali.com/store/images/large/18533.jpg"
+        
+  },
+  {
+      "id": 4,
+      "band": "Chet Baker",
+      "recordTitle":"Love for Sale: Live at the Rising Sun Celebrity Jazz Club",
+      "amount": 29.99,
+      "discountAmount": 2.99,
+      "category": "Jazz",
+      "imageUrl": "https://cdn.hmv.com/r/w-1280/p-webp/hmv/files/53/5339a781-42a5-462b-ad8c-4fe575a26bbc.jpg"
+          
+  },
+  {
+      "id": 5,
+      "band": "Robert Johnson",
+      "recordTitle":"King Of The Delta Blues Singers",
+      "amount": 22.99,
+      "discountAmount": 2.99,
+      "category": "Blues",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Dpd3bDhgS._AC_SX679_.jpg"
+        
+  },
+  {
+      "id": 6,
+      "band": "Elis Regina Antonio Carlos Jobim",
+      "recordTitle":"Elis & Tom",
+      "amount": 25.99,
+      "discountAmount": 2.99,
+      "category": "Brazilian MPB",
+      "imageUrl":"https://m.media-amazon.com/images/I/514Hjwfz0LL._AC_.jpg"
+  },
+  {
+      "id": 7,
+      "band": "Born This Way",
+      "recordTitle":"Lady Gaga",
+      "amount": 21.99,
+      "discountAmount": 2.99,
+      "category": "Pop",
+      "imageUrl":"https://m.media-amazon.com/images/I/919YVwFk8CL._AC_SX679_.jpg"
+  
+  }
+]
+
